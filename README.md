@@ -1,6 +1,7 @@
 # jenkins-docker
 Jenkins Docker
 
+### To start the jenkins
 ```
 docker compose up -d && docker compose logs -f
 ```
