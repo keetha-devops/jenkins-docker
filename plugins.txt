@@ -3,6 +3,7 @@ amazon-ecr: 1.136.v914ea_5948634
 ansicolor: 1.0.4
 antisamy-markup-formatter: 162.v0e6ec0fcfcf6
 apache-httpcomponents-client-4-api: 4.5.14-208.v438351942757
+apache-httpcomponents-client-5-api: 5.3.1-110.v77252fb_d4da_5
 asm-api: 9.7-33.v4d23ef79fcc8
 authentication-tokens: 1.119.v50285141b_7e1
 aws-credentials: 231.v08a_59f17d742
@@ -14,6 +15,7 @@ bouncycastle-api: 2.30.1.78.1-248.ve27176eb_46cb_
 branch-api: 2.1178.v969d9eb_c728e
 caffeine-api: 3.1.8-133.v17b_1ff2e0599
 checks-api: 2.2.0
+cloud-stats: 336.v788e4055508b_
 cloudbees-folder: 6.942.vb_43318a_156b_2
 command-launcher: 115.vd8b_301cc15d0
 commons-lang3-api: 3.16.0-82.ve2b_07d659d95
@@ -22,6 +24,8 @@ credentials-binding: 681.vf91669a_32e45
 credentials: 1371.vfee6b_095f0a_3
 display-url-api: 2.204.vf6fddd8a_8b_e9
 docker-commons: 443.v921729d5611d
+docker-java-api: 3.3.6-90.ve7c5c7535ddd
+docker-plugin: 1.6.2
 durable-task: 568.v8fb_5c57e8417
 echarts-api: 5.5.0-1
 eddsa-api: 0.3.0-4.v84c6f0f4969e
@@ -67,6 +71,7 @@ scm-api: 696.v778d637b_a_762
 script-security: 1354.va_70a_fe478c7f
 snakeyaml-api: 2.2-121.v5a_68b_9300b_d4
 ssh-credentials: 343.v884f71d78167
+ssh-slaves: 2.973.v0fa_8c0dea_f9f
 sshd: 3.330.vc866a_8389b_58
 structs: 338.v848422169819
 timestamper: 1.27
@@ -85,3 +90,6 @@ workflow-scm-step: 427.v4ca_6512e7df1
 workflow-step-api: 678.v3ee58b_469476
 workflow-support: 920.v59f71ce16f04
 ws-cleanup: 0.46
+docker-workflow: 580.vc0c340686b_54
+jjwt-api: 0.11.5-112.ve82dfb_224b_a_d
+github-branch-source: 1793.v1831e9c68d77
