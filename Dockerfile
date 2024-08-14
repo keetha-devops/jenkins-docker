@@ -3,7 +3,7 @@ FROM jenkins/jenkins:2.462.1
 USER root
 
 RUN apt-get update -qq \
-    && apt-get install -qqy apt-transport-https ca-certificates curl git gnupg2 software-properties-common
+    && apt-get install -qqy awscli apt-transport-https ca-certificates curl git gnupg2 software-properties-common
 
 # Use Docker's official installation script
 RUN curl -fsSL https://get.docker.com -o get-docker.sh \
